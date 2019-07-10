@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
+"""
+This is a dictionary that contains all the usable letters and their partterns
+"""
 
 style = {
 'a': 
