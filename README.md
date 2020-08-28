@@ -1,5 +1,5 @@
 # cattion
-A simple program that can change some texts into a matrix.
+A simple program that can turn some texts into a matrix.
 
 ## usage
 `python(3) cattion.py`
